@@ -1,0 +1,65 @@
+{
+  "latitude": 39.55871,
+  "longitude": -104.96716,
+  "generationtime_ms": 0.16605854034423828,
+  "utc_offset_seconds": -25200,
+  "timezone": "America/Denver",
+  "timezone_abbreviation": "MST",
+  "elevation": 1732.0,
+  "current_units": {
+    "time": "iso8601",
+    "interval": "seconds",
+    "temperature_2m": "°F",
+    "weather_code": "wmo code"
+  },
+  "current": {
+    "time": "2023-12-11T19:30",
+    "interval": 900,
+    "temperature_2m": 41.3,
+    "weather_code": 3
+  },
+  "daily_units": {
+    "time": "iso8601",
+    "weather_code": "wmo code",
+    "temperature_2m_max": "°F",
+    "temperature_2m_min": "°F"
+  },
+  "daily": {
+    "time": [
+      "2023-12-11",
+      "2023-12-12",
+      "2023-12-13",
+      "2023-12-14",
+      "2023-12-15",
+      "2023-12-16",
+      "2023-12-17"
+    ],
+    "weather_code": [
+      3,
+      3,
+      73,
+      3,
+      0,
+      3,
+      3
+    ],
+    "temperature_2m_max": [
+      53.5,
+      37.8,
+      34.7,
+      40.1,
+      41.4,
+      42.3,
+      53.4
+    ],
+    "temperature_2m_min": [
+      32.8,
+      30.5,
+      23.4,
+      29.2,
+      29.1,
+      27.9,
+      35.9
+    ]
+  }
+}
